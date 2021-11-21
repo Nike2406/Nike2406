@@ -1,9 +1,9 @@
 <img src="https://badge42.herokuapp.com/api/stats/prochell?darkmode=true&privacyEmail=true&privacyCursus=true"/>
 
 
-| **Libft** | <img src="https://badge42.herokuapp.com/api/project/prochell/Libft"/> | **FT_GetNextLine** | <img src="https://badge42.herokuapp.com/api/project/prochell/get_next_line"/> |
+| **Libft** | <img src="https://badge42.herokuapp.com/api/project/prochell/Libft"/> | **GetNextLine** | <img src="https://badge42.herokuapp.com/api/project/prochell/get_next_line"/> |
 | :------------: | :------------: | :------------: | :------------: |
-| **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/prochell/Born2beroot"/> | **FT_Printf** | <img src="https://badge42.herokuapp.com/api/project/prochell/ft_printf"/> | 
+| **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/prochell/Born2beroot"/> | **Printf** | <img src="https://badge42.herokuapp.com/api/project/prochell/ft_printf"/> | 
 | **Pipex** | <img src="https://badge42.herokuapp.com/api/project/prochell/pipex"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/prochell/push_swap"/> | 
 | **FDF** | <img src="https://badge42.herokuapp.com/api/project/prochell/FdF"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/prochell/push_swap"/> | 
 | **Minishell** | <img src="https://badge42.herokuapp.com/api/project/prochell/minishell"/> | **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/prochell/Philosophers"/> |  
