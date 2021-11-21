@@ -4,13 +4,11 @@
 | **Libft** | <img src="https://badge42.herokuapp.com/api/project/prochell/Libft"/> | **FT_GetNextLine** | <img src="https://badge42.herokuapp.com/api/project/prochell/get_next_line"/> |
 
 | :------------: | :------------: | :------------: | :------------: |
-| **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/prochell/Born2beroot"/> | **FT_Printf** | <img src="https://badge42.herokuapp.com/api/project/prochell/ft_printf"/> | 
-| **Pipex** | <img src="https://badge42.herokuapp.com/api/project/prochell/pipex"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/prochell/push_swap"/> | 
-| **FDF** | <img src="https://badge42.herokuapp.com/api/project/prochell/fdf"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/prochell/push_swap"/> | 
-| **Minishell** | <img src="https://badge42.herokuapp.com/api/project/prochell/minishell"/> | **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/prochell/Philosophers"/> | 
-| **Cub3d** | <img src="https://badge42.herokuapp.com/api/project/prochell/cub3d"/> |
-
-
+ | **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/prochell/Born2beroot"/> | **FT_Printf** | <img src="https://badge42.herokuapp.com/api/project/prochell/ft_printf"/> | 
+  | **Pipex** | <img src="https://badge42.herokuapp.com/api/project/prochell/pipex"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/prochell/push_swap"/> | 
+   | **FDF** | <img src="https://badge42.herokuapp.com/api/project/prochell/fdf"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/prochell/push_swap"/> | 
+    | **Minishell** | <img src="https://badge42.herokuapp.com/api/project/prochell/minishell"/> | **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/prochell/Philosophers"/> | 
+   | **Cub3d** | <img src="https://badge42.herokuapp.com/api/project/prochell/cub3d"/> |
 
 | **Exam Rank 02** | <img src="https://badge42.herokuapp.com/api/project/prochell/Exam Rank 02"/> | **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/prochell/Exam Rank 02"/> |
 
