@@ -5,7 +5,7 @@
 | :------------: | :------------: | :------------: | :------------: |
 | **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/prochell/Born2beroot"/> | **Printf** | <img src="https://badge42.herokuapp.com/api/project/prochell/ft_printf"/> | 
 | **Pipex** | <img src="https://badge42.herokuapp.com/api/project/prochell/pipex"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/prochell/push_swap"/> | 
-| **FDF** | <img src="https://badge42.herokuapp.com/api/project/prochell/FdF"/> | **Minishell** | <img src="https://badge42.herokuapp.com/api/project/prochell/minishell"/|> |
+| **FDF** | <img src="https://badge42.herokuapp.com/api/project/prochell/FdF"/> | **Minishell** | <img src="https://badge42.herokuapp.com/api/project/prochell/minishell"/> |
 | **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/prochell/Philosophers"/> | **Cub3d** | <img src="https://badge42.herokuapp.com/api/project/prochell/Cub3d"/> | 
 | **NetPractice** | <img src="https://badge42.herokuapp.com/api/project/prochell/NetPractice"/> |
 | **Exam Rank 02** | <img src="https://badge42.herokuapp.com/api/project/prochell/Exam Rank 02"/> | **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/prochell/Exam Rank 02"/> |
